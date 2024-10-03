@@ -53,9 +53,7 @@ Copy code
 python bot.py
 Open Telegram and search for your bot. Start a conversation and use the command /price to get the current price of Ethereum.
 
-Commands
-/price - Get the current price of Ethereum in your preferred currency.
-Contributing
+## Contributing
 Contributions are welcome! If you have suggestions for improvements or new features, please fork the repository and submit a pull request.
 
 ## License
