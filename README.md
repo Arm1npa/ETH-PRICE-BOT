@@ -58,9 +58,9 @@ Commands
 Contributing
 Contributions are welcome! If you have suggestions for improvements or new features, please fork the repository and submit a pull request.
 
-License
+## License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-Acknowledgments
-CoinMarketCap for providing cryptocurrency market data.
-Aiogram for making it easy to build Telegram bots with Python. """
+## Acknowledgments
+- CoinMarketCap for providing cryptocurrency market data.
+- Aiogram for making it easy to build Telegram bots with Python. """
